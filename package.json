@@ -1,14 +1,13 @@
 {
-  "name": "Tahtakale",
+  "name": "TahtakaleC",
   "version": "1.0.0",
-  "description": "Tahtakale Server",
-  "main": "Tahtakale.js",
-  "scripts": {
+ 
+   "scripts": {
     "start": "node Tahtakale.js"
   },
 
   "author": "Baybars ÖNAL",
-  "license": "ISC",
+
   "dependencies": {
     "express": "^4.15.2",
     "socket.io": "^2.3.0"
