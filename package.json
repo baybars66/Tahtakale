@@ -1,11 +1,11 @@
 {
-  "name": "Tahtakale C",
+  "name": "Server",
   "version": "1.0.0",
   "scripts": {
-     "start": "node Tahtakale.js"
+     "start": "node server5.js"
   },
   "dependencies": {
-     "express": "^4.17.1"
-     
+     "express": "^4.17.1",
+     "mysql": "^2.18.1"
   }
 }
