@@ -1,0 +1,8 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/dg86quw872gw/denemem/
+    - /bin/cp Tahtakale.js $DEPLOYPATH
+    - /bin/cp package.json $DEPLOYPATH
+   
+    
