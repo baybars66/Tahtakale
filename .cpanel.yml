@@ -1,7 +1,7 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/dg86quw872gw/Tahtakale/
+    - export DEPLOYPATH=/home/dg86quw872gw/TahtakaleC/
     - /bin/cp Tahtakale.js $DEPLOYPATH
     - /bin/cp package.json $DEPLOYPATH
    
