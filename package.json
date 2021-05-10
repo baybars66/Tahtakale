@@ -1,0 +1,17 @@
+{
+  "name": "Tahtakale",
+  "version": "1.0.0",
+  "description": "Tahtakale Server",
+  "main": "Tahtakale.js",
+  "scripts": {
+    "start": "node Tahtakale.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Baybars ÖNAL",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^2.3.0"
+  }
+}
