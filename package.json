@@ -4,10 +4,9 @@
   "description": "Tahtakale Server",
   "main": "Tahtakale.js",
   "scripts": {
-    "start": "node Tahtakale.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node Tahtakale.js"
   },
-  "keywords": [],
+
   "author": "Baybars ÖNAL",
   "license": "ISC",
   "dependencies": {
