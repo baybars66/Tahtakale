@@ -1,15 +1,11 @@
 {
-  "name": "TahtakaleC",
+  "name": "Tahtakale C",
   "version": "1.0.0",
- 
-   "scripts": {
-    "start": "node Tahtakale.js"
+  "scripts": {
+     "start": "node Tahtakale.js"
   },
-
-  "author": "Baybars ÖNAL",
-
   "dependencies": {
-    "express": "^4.15.2",
-    "socket.io": "^2.3.0"
+     "express": "^4.17.1"
+     
   }
 }
