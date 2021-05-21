@@ -2,6 +2,6 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/dg86quw872gw/tahtakalec/
-    - /bin/cp tahtakale.js $DEPLOYPATH
+    - /bin/cp Tahtakale.js $DEPLOYPATH
     - /bin/cp package.json $DEPLOYPATH
    
