@@ -4,4 +4,5 @@ deployment:
     - export DEPLOYPATH=/home/dg86quw872gw/tahtakalec/
     - /bin/cp Tahtakale.js $DEPLOYPATH
     - /bin/cp package.json $DEPLOYPATH
+    - /bin/cp .htaccess $DEPLOYPATH
    
