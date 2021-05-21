@@ -5,4 +5,3 @@ deployment:
     - /bin/cp tahtakale.js $DEPLOYPATH
     - /bin/cp package.json $DEPLOYPATH
    
-    
